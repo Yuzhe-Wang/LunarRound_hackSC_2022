@@ -1,0 +1,42 @@
+[
+	{
+		"text": "When is the Lunar New Year?",
+        "children": [
+            {
+                "text": "This Lunar New Year was on February 1, 2022. However, the exact day falls on different dates every year as it coincides with the lunar calendar."
+            }
+        ]
+	},
+	{
+		"text": "What animal is this Lunar New Year?",
+        "children": [
+            {
+                "text": "The year of the Tiger! Every year is a new animal in the Zodiac—mouse, ox, tiger, rabbit, dragon, snake, horse, sheep, monkey, rooster, dog, pig."
+            }
+        ]
+	},
+	{
+		"text": "Where did the Lunar New Year originate?",
+        "children": [
+            {
+                "text": "Ancient China, as far back as the 14th Century B.C. during the Shang Dynasty! :)"
+            }
+        ]
+	},
+	{
+		"text": "About the Team",
+        "children": [
+            {
+                "text": "Creators: Angela Sun, Crystal Wu, Elaine Guo, Ryan (Yuzhe) Wang"
+            }
+        ]
+	},
+	{
+		"text": "Why was this app created?",
+        "children": [
+            {
+                "text": "We are all Chinese idk what to tell u"
+            }
+        ]
+	},
+]
